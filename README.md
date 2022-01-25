@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+
 ### About Me
 
 I am a Software Engineer at Educative. Previously I was a Masters student & graduate research/teaching assistant at Koç University in the Department of Engineering, where I was being advised by Dr. Oznur Ozkasap. I received my B.S. degree in Computer Sciences in 2017 from the School of Science and Engineering (SSE) of Lahore University of Managment Sciences (LUMS), Pakistan, where I worked with Netwrok Group as an Undergraduate Research Assistant before moving to Illinois in 2017. Over there, I was working on the algorithms of distributed systems with Dr. Ajay Kshemkalyani. At the start of 2019, I left UIC and went to Koc University. After my graducation I joined Educative.
@@ -24,3 +26,5 @@ I am a Software Engineer at Educative. Previously I was a Masters student & grad
 Offering five years of software development and research experience with high level, imperative, object oriented languages. Skilled with the concepts of version control, unit testing, agile development, open source, and team-driven collaborative programming. Interested and experienced in working with algorithms, data structures, Artificial Intelligence, distributed and operating systems. Strong command and interest in Data Science and Deep Learning.
 
 [Google Scholar](https://scholar.google.com.tr/citations?user=vWkIM_cAAAAJ&hl=en)
+[Personal Website](https://faiziali98.github.io/)
+[LinkedIn](https://www.linkedin.com/in/faiziali436/)
