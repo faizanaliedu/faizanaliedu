@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github.com/[username]/[reponame]/blob/main/banner.png?raw=true)
+![alt text](https://github.com/faizanaliedu/faizanaliedu/blob/main/banner.png?raw=true)
 
 ### About Me
 
